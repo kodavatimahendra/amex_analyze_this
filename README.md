@@ -61,3 +61,28 @@ Once you are satisfied with your model, use it on the Leaderboard dataset and co
 Keep fine tuning your estimates by trying to increase your leader board scores. Once satisfied, use the same logic to estimate the vote preference of citizens in the final dataset. 
 <br><br>
 You can use any tool, write your own algorithms, and implement any predictive modeling/Data analysis methods you may want to. For your final submission, you will have to provide details of the techniques you have used.
+<br><br>
+
+
+<h2>Evaluation Criteria </h2>
+
+Leader board Submission
+<br>
+The dataset for Leader board evaluation would be evaluated on the basis of the estimation that you provide. The score is calculated as:
+<br>
+&nbsp; &nbsp; a. If Actual Vote = Predicted Vote and Actual Vote = Historical Vote, then score = 50
+<br>
+&nbsp; &nbsp; b. If Actual Vote = Predicted Vote and Actual Vote ^= Historical Vote, then score = 100
+<br>
+&nbsp; &nbsp; c. If Actual Vote ^= Predicted Vote and Actual Vote = Historical Vote, then score = 0
+<br>
+&nbsp; &nbsp; d. If Actual Vote ^= Predicted Vote and Actual Vote ^= Historical Vote, then score = -50
+<br>
+
+Your final score will depend on the following parameters:
+<br>
+&nbsp; &nbsp; 1. 20% weight for highest score achieved on LeaderBoard submission
+<br>
+&nbsp; &nbsp; 2. 60% weight for score achieved on Final Dataset
+<br>
+&nbsp; &nbsp; 3. 20% weight for the technique(s) chosen and the associated reasons for the same.
