@@ -16,6 +16,8 @@ Can you help these students crack this puzzle? Do you have it in you to start yo
 <h2> Problem Statement </h2>
 
 You have to predict the party for which each citizen will vote for in the upcoming polls.
+<br><br>
+Source: https://in.axpcampus.com/AnalyzeThis/campusactivity/problem-statement.php
 
 
 <h2> Data for Analysis </h2>
@@ -88,5 +90,3 @@ Your final score will depend on the following parameters:
 &nbsp; &nbsp; 2. 60% weight for score achieved on Final Dataset
 <br>
 &nbsp; &nbsp; 3. 20% weight for the technique(s) chosen and the associated reasons for the same.
-<br>
-Source: https://in.axpcampus.com/AnalyzeThis/campusactivity/problem-statement.php
