@@ -27,7 +27,9 @@ Following files can be downloaded for your analysis. <br><br>
 <br>
 &nbsp; &nbsp; b. Who they will vote for in upcoming polls
 <br>
-&nbsp; &nbsp; c. Donation, Rally Attendance, Demographics of these citizens
+&nbsp; &nbsp; c. Donation, Rally Attendance
+<br>
+&nbsp; &nbsp; d. Demographics of these citizens
 <br><br>
 2. Leaderboard_Dataset.csv: This data has information on the historical vote for a different set of citizens, along with donation, rally attendance and demographics. The vote in the upcoming polls is not present in the data.
 <br><br>
